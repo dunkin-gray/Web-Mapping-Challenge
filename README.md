@@ -6,7 +6,7 @@ In this interactive map, users can review earthquake data over a 7-day span with
 
 Data Sources:
 
-Eathquake GeoJson was provided by the USGS with data updating every minute: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.
+Eathquake GeoJson was provided by the USGS with data updating by the minute: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.
 
 Tectonic plates GeoJSON was provided by Fraxen: https://github.com/fraxen/tectonicplates
 
@@ -18,7 +18,7 @@ Overlay maps provided through the Mapbox API : https://docs.mapbox.com/api/maps/
 
 **Static/js**
 
-• logic.js: the JavaScript file used to read in my data and build the map.
+• logic.js: the JavaScript file used to read in my data and create the map.
 
 **Static/css**
 
